@@ -55,13 +55,13 @@
     color: white;
 }
 
-.flex-container{
+#flex-container{
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
 }
 
-.flex-container *{
+.flex-item{
     display: flex;
     align-items: center;
     justify-content: center;
